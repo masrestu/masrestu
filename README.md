@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masrestu
 - 👀 I’m interested in improving skill and create some portfolios
-- 🌱 I’m currently learning node.js and react
-- 💞️ I’m looking to collaborate on front end
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate on front end and back end
 - 📫 How to reach me via email rizkiawanrestu@gmail.com
 
 <!---
